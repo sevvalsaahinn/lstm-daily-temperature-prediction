@@ -25,6 +25,7 @@ yapısına sahiptir.
 
 ## Proje Yapısı
 
+```
 ├── data/
 │ ├── temperatures.csv
 │ └── README.md
@@ -40,6 +41,7 @@ yapısına sahiptir.
 ├── README.md
 └── .gitignore
 
+```
 
 ### Dosya Açıklamaları
 
